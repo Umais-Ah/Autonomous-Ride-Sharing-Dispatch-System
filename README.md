@@ -24,10 +24,8 @@
 
 > Replace the thumbnail and link with your project video
 
-[![Watch Demo](assets/video-thumbnail.png)](https://youtu.be/SaZ52fODW4s)
-
-📺 **Demo Video:**
-YOUR_VIDEO_LINK_HERE
+[![Watch Demo](<img width="1386" height="612" alt="image" src="https://github.com/user-attachments/assets/47183eee-6f47-4765-8ffb-2f037ecffbbb" />
+)](https://youtu.be/SaZ52fODW4s)
 
 ---
 
