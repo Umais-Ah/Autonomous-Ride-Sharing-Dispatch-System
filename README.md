@@ -22,9 +22,8 @@
 
 ## 🎥 Project Demo
 
-> Replace the thumbnail and link with your project video
 
-https://github.com/user-attachments/assets/2a0dce65-689c-4797-aa30-95216f23f3cc
+[▶️ Watch Demo Video](https://github.com/user-attachments/assets/7d15ccec-cd75-4e66-be9c-fe4e16622174)
 
 ---
 
@@ -302,7 +301,7 @@ Driver Released
 
 | Name                 | ID       |
 | -------------------- | -------- |
-| Muhammad Umais Ahmed | 24K-1003 |
+| Umais Ahmed          | 24K-1003 |
 | Abeer Siddiqui       | 24K-0538 |
 | Musab Sheikh         | 24K-0862 |
 
