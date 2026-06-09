@@ -1,0 +1,79 @@
+[19:35:07.375] ========== SYSTEM STARTED ==========
+[19:35:07.376] Initial drivers: 5
+[19:35:07.376] Initial customers: 4 (concurrent threads)
+[19:35:07.377] [DISPATCHER] Dispatch system started
+[19:35:07.377] [DISPATCHER] Dispatch system started
+[19:35:07.378] Customer 1 requested ride: Hospital -> Home
+[19:35:07.379] Customer 2 requested ride: Station -> Hotel
+[19:35:07.379] Driver 1 ASSIGNED to Customer 1
+[19:35:07.380] Customer 4 requested ride: Market -> Museum
+[19:35:07.380] Driver 2 ASSIGNED to Customer 2
+[19:35:07.381] Customer 3 requested ride: Airport -> Theater
+[19:35:07.381] All threads created successfully
+[19:35:07.381] Dispatchers: 2, Customers: 4
+[19:35:10.379] Customer 1 requested ride: Mall -> Hotel
+[19:35:10.381] Ride COMPLETED: Customer 2 | Duration: 3s | Distance: 4.000000 km | Fare: Rs.187 | Rating: 4/5
+[19:35:10.381] Driver 3 ASSIGNED to Customer 4
+[19:35:11.381] Ride COMPLETED: Customer 1 | Duration: 4s | Distance: 2.000000 km | Fare: Rs.150 | Rating: 5/5
+[19:35:11.382] Driver 4 ASSIGNED to Customer 3
+[19:35:12.381] Customer 2 requested ride: Station -> Hotel
+[19:35:13.381] Customer 3 requested ride: Mall -> Library
+[19:35:13.382] Ride COMPLETED: Customer 4 | Duration: 3s | Distance: 9.000000 km | Fare: Rs.300 | Rating: 1/5
+[19:35:13.383] Driver 5 ASSIGNED to Customer 1
+[19:35:13.383] Ride COMPLETED: Customer 3 | Duration: 2s | Distance: 6.000000 km | Fare: Rs.225 | Rating: 2/5
+[19:35:13.383] Driver 1 ASSIGNED to Customer 2
+[19:35:14.384] Customer 4 requested ride: Park -> Theater
+[19:35:15.383] Ride COMPLETED: Customer 1 | Duration: 2s | Distance: 9.000000 km | Fare: Rs.292 | Rating: 3/5
+[19:35:15.384] Driver 2 ASSIGNED to Customer 3
+[19:35:15.385] Ride COMPLETED: Customer 2 | Duration: 2s | Distance: 3.000000 km | Fare: Rs.157 | Rating: 4/5
+[19:35:15.385] Driver 3 ASSIGNED to Customer 4
+[19:35:16.380] Customer 1 requested ride: Downtown -> Restaurant
+[19:35:17.386] Customer 4 requested ride: Market -> Restaurant
+[19:35:18.385] Ride COMPLETED: Customer 3 | Duration: 3s | Distance: 2.000000 km | Fare: Rs.150 | Rating: 4/5
+[19:35:18.385] Driver 4 ASSIGNED to Customer 1
+[19:35:19.381] Customer 1 requested ride: Airport -> Home
+[19:35:19.388] Customer 2 requested ride: Mall -> Office
+[19:35:20.382] Customer 3 requested ride: Hospital -> Library
+[19:35:20.387] Ride COMPLETED: Customer 4 | Duration: 5s | Distance: 4.000000 km | Fare: Rs.202 | Rating: 1/5
+[19:35:20.388] Driver 5 ASSIGNED to Customer 4
+[19:35:21.386] Ride COMPLETED: Customer 1 | Duration: 3s | Distance: 8.000000 km | Fare: Rs.277 | Rating: 3/5
+[19:35:21.386] Driver 1 ASSIGNED to Customer 1
+[19:35:22.389] Ride COMPLETED: Customer 4 | Duration: 2s | Distance: 2.000000 km | Fare: Rs.150 | Rating: 4/5
+[19:35:22.390] Driver 2 ASSIGNED to Customer 2
+[19:35:23.387] Customer 4 requested ride: Market -> Museum
+[19:35:23.387] Ride COMPLETED: Customer 1 | Duration: 2s | Distance: 5.000000 km | Fare: Rs.202 | Rating: 5/5
+[19:35:23.388] Driver 3 ASSIGNED to Customer 3
+[19:35:24.382] Customer 1 requested ride: Market -> Museum
+[19:35:25.388] Customer 2 requested ride: Hospital -> Beach
+[19:35:26.383] Customer 3 requested ride: Station -> Library
+[19:35:26.387] Customer 4 requested ride: Park -> Home
+[19:35:26.391] Ride COMPLETED: Customer 2 | Duration: 4s | Distance: 3.000000 km | Fare: Rs.172 | Rating: 5/5
+[19:35:26.392] Driver 4 ASSIGNED to Customer 4
+[19:35:28.388] Ride COMPLETED: Customer 3 | Duration: 5s | Distance: 2.000000 km | Fare: Rs.157 | Rating: 5/5
+[19:35:28.389] Driver 5 ASSIGNED to Customer 1
+[19:35:29.382] Customer 1 requested ride: Park -> Office
+[19:35:30.388] Customer 4 requested ride: Market -> Home
+[19:35:30.392] Ride COMPLETED: Customer 4 | Duration: 4s | Distance: 4.000000 km | Fare: Rs.195 | Rating: 4/5
+[19:35:30.393] Driver 1 ASSIGNED to Customer 2
+[19:35:31.389] Customer 2 requested ride: Park -> Hotel
+[19:35:32.383] Customer 3 requested ride: Hospital -> Office
+[19:35:32.393] Ride COMPLETED: Customer 2 | Duration: 2s | Distance: 6.000000 km | Fare: Rs.225 | Rating: 5/5
+[19:35:32.394] Driver 2 ASSIGNED to Customer 3
+[19:35:33.390] Ride COMPLETED: Customer 1 | Duration: 5s | Distance: 4.000000 km | Fare: Rs.202 | Rating: 4/5
+[19:35:33.390] Driver 3 ASSIGNED to Customer 4
+[19:35:33.417] Customer 1 requested ride: Park -> Beach
+[19:35:36.390] Customer 4 requested ride: Market -> Office
+[19:35:36.391] Ride COMPLETED: Customer 4 | Duration: 3s | Distance: 8.000000 km | Fare: Rs.277 | Rating: 3/5
+[19:35:36.392] Driver 4 ASSIGNED to Customer 1
+[19:35:36.395] Ride COMPLETED: Customer 3 | Duration: 4s | Distance: 8.000000 km | Fare: Rs.285 | Rating: 2/5
+[19:35:36.395] Driver 5 ASSIGNED to Customer 4
+[19:35:39.393] Ride COMPLETED: Customer 1 | Duration: 3s | Distance: 9.000000 km | Fare: Rs.300 | Rating: 5/5
+[19:35:39.394] Driver 1 ASSIGNED to Customer 2
+[19:35:39.396] Ride COMPLETED: Customer 4 | Duration: 3s | Distance: 3.000000 km | Fare: Rs.165 | Rating: 4/5
+[19:35:39.397] Driver 2 ASSIGNED to Customer 3
+[19:35:42.395] Ride COMPLETED: Customer 2 | Duration: 3s | Distance: 3.000000 km | Fare: Rs.165 | Rating: 3/5
+[19:35:42.396] Driver 3 ASSIGNED to Customer 1
+[19:35:42.398] Ride COMPLETED: Customer 3 | Duration: 3s | Distance: 3.000000 km | Fare: Rs.165 | Rating: 1/5
+[19:35:42.398] Driver 4 ASSIGNED to Customer 4
+[19:35:46.398] Ride COMPLETED: Customer 1 | Duration: 4s | Distance: 5.000000 km | Fare: Rs.217 | Rating: 1/5
+[19:35:47.400] Ride COMPLETED: Customer 4 | Duration: 5s | Distance: 6.000000 km | Fare: Rs.247 | Rating: 1/5
